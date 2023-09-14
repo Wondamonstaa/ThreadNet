@@ -1,0 +1,80 @@
+HTTP/1.1 200 OK						      <
+Content-Length: 73					      <
+
+Requests: 100						      |
+Header bytes: 3800					      |
+Body bytes: 400						      |
+Errors: 0						      |
+Error bytes: 0						      |
+HTTP/1.1 200 OK						      |
+Content-Length: 73					      |
+							      |
+Requests: 201						      |
+Header bytes: 7639					      <
+Body bytes: 873						      <
+Errors: 0						      <
+Error bytes: 0						      <
+HTTP/1.1 200 OK						      <
+Content-Length: 75					      <
+							      <
+Requests: 302						      <
+Header bytes: 11478					      <
+Body bytes: 1346					      <
+Errors: 0						      <
+Error bytes: 0						      <
+HTTP/1.1 200 OK						      <
+Content-Length: 75					      <
+							      <
+Requests: 403						      <
+Header bytes: 15317					      <
+Body bytes: 1821					      <
+Errors: 0						      <
+Error bytes: 0						      <
+HTTP/1.1 200 OK						      <
+Content-Length: 75					      <
+							      <
+Requests: 504						      <
+Header bytes: 19156					      <
+Body bytes: 2296					      <
+Errors: 0						      <
+Error bytes: 0						      <
+HTTP/1.1 200 OK						      <
+Content-Length: 75					      <
+							      <
+Requests: 605						      <
+Header bytes: 22995					      <
+Body bytes: 2771					      <
+Errors: 0						      <
+Error bytes: 0						      <
+HTTP/1.1 200 OK						      <
+Content-Length: 75					      <
+							      <
+Requests: 706						      <
+Header bytes: 26834					      <
+Body bytes: 3246					      <
+Errors: 0						      <
+Error bytes: 0						      <
+HTTP/1.1 200 OK						      <
+Content-Length: 75					      <
+							      <
+Requests: 807						      <
+Header bytes: 30673					      <
+Body bytes: 3721					      <
+Errors: 0						      <
+Error bytes: 0						      <
+HTTP/1.1 200 OK						      <
+Content-Length: 75					      <
+							      <
+Requests: 908						      <
+Header bytes: 34512					      <
+Body bytes: 4196					      <
+Errors: 0						      <
+Error bytes: 0						      <
+HTTP/1.1 200 OK						      <
+Content-Length: 76					      <
+							      <
+Requests: 1009						      <
+Header bytes: 38351					      <
+Body bytes: 4671					      <
+Errors: 0						      <
+Error bytes: 0						      <
