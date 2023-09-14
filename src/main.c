@@ -1,4 +1,5 @@
 #include "a5.h"
+//Entry point of the program
 
 static int get_port();
 
