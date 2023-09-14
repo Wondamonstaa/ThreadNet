@@ -1,3 +1,6 @@
+//Developed by Kiryl Baravikou, UIC aka Wondamonstaa
+//Credit: Luis Pina, UIC
+
 #include "a5-pthread.h"
 #include "a5.h"
 #include<stdbool.h>
